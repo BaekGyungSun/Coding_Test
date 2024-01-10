@@ -22,6 +22,6 @@ Programmers Python3 Level0
 20. 대문자와 소문자
 21. 두 수의 곱
 22. 두 수의 나눗셈
-23. 두 수의 차 : [https://school.programmers.co.kr/learn/courses/30/lessons/120803]
+23. 두 수의 차 : https://school.programmers.co.kr/learn/courses/30/lessons/120803?language=python3
 24. 두 수의 합
 25. 등수 매기기
