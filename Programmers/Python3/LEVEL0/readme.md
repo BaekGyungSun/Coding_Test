@@ -16,7 +16,7 @@ Programmers Python3 Level0
 14. 공 던지기
 15. 구슬을 나누는 경우의 수
 16. 나머지 구하기
-17. 나이 출력
+17. 나이 출력 : https://school.programmers.co.kr/learn/courses/30/lessons/120820?language=python3
 18. 다음에 올 숫자
 19. 다항식 더하기
 20. 대문자와 소문자
