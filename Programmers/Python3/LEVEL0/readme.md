@@ -2,7 +2,7 @@
 
 1. 2차원으로 만들기 : https://school.programmers.co.kr/learn/courses/30/lessons/120842?/language=python3
 2. 369게임 : https://school.programmers.co.kr/learn/courses/30/lessons/120891?language=python3
-3. 7의 개수
+3. 7의 개수 : https://school.programmers.co.kr/learn/courses/30/lessons/120912?language=python3
 4. A를 B로 만들기
 5. k의 개수
 6. n의 배수 고르기
