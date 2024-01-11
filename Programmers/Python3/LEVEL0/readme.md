@@ -5,7 +5,7 @@
 3. 7의 개수 : https://school.programmers.co.kr/learn/courses/30/lessons/120912?language=python3
 4. A를 B로 만들기 : https://school.programmers.co.kr/learn/courses/30/lessons/120886?language=python3
 5. k의 개수 : https://school.programmers.co.kr/learn/courses/30/lessons/120887?language=python3
-6. n의 배수 고르기
+6. n의 배수 고르기 : https://school.programmers.co.kr/learn/courses/30/lessons/120905?language=python3
 7. OX퀴즈
 8. 가까운 수
 9. 가위바위보
