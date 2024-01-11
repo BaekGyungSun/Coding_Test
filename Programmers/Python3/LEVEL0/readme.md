@@ -1,6 +1,6 @@
 ### Programmers Python3 Level0
 
-1. 2차원으로 만들기
+1. 2차원으로 만들기 : https://school.programmers.co.kr/learn/courses/30/lessons/120842?/language=python3
 2. 369게임
 3. 7의 개수
 4. A를 B로 만들기
